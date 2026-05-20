@@ -1,4 +1,5 @@
 # Praktikum-Sistem-Digital
 Berisi file file hasil belajar menggunakan software proteus di mata kuliah Praktikum Sistem Digital
-1. Modul 
-2. Modul
+1. 
+2. 
+3. 
