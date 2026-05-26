@@ -5,3 +5,5 @@ Berisi file file hasil belajar menggunakan software proteus di mata kuliah Prakt
 3. 
 4. 
 5. 
+6. 
+7. 
