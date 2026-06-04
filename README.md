@@ -9,6 +9,6 @@ Berisi file file hasil belajar menggunakan software proteus di mata kuliah Prakt
 7. 
 8. 
 9. 
-10. 
+10. Decoder
 11. 
 12. 
