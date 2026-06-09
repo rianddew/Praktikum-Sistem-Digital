@@ -7,7 +7,7 @@ Berisi file file hasil belajar menggunakan software proteus di mata kuliah Prakt
 5. 
 6. 
 7. 
-8. 
+8. Flip-Flop
 9. 
 10. Decoder
 11. Register
