@@ -2,7 +2,7 @@
 Berisi file file hasil belajar menggunakan software proteus di mata kuliah Praktikum Sistem Digital
 1. Menggunakan Proteus 8
 2. Pengenalan Sinyal
-3. 
+3. Gerbang Logika
 4. 
 5. 
 6. 
