@@ -3,8 +3,8 @@ Berisi file file hasil belajar menggunakan software proteus di mata kuliah Prakt
 1. Menggunakan Proteus 8
 2. Pengenalan Sinyal
 3. Gerbang Logika
-4. 
-5. 
+4. Kombinasi Gerbang Logika
+5. Aljabar Boolean
 6. 
 7. 
 8. Flip-Flop
