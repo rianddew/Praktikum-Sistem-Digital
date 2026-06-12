@@ -5,10 +5,10 @@ Berisi file file hasil belajar menggunakan software proteus di mata kuliah Prakt
 3. Gerbang Logika
 4. Kombinasi Gerbang Logika
 5. Aljabar Boolean
-6. 
-7. 
-8. Flip-Flop
-9. 
-10. Decoder
+6. Peta Karnaugh
+7. Flip-Flop Dasar
+8. Aplikasi Flip-Flop
+9. Decoder
+10. Imolementasi Decoder
 11. Register
-12. 
+12. Tingkat Lanjut (Penghitung Waktu)
